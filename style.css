@@ -1,3 +1,9 @@
 .titulo{
 	background-color: #0f0;
 }
+.paragrafo{
+	background-color: #f00;
+}
+.imagem{
+	border-radius: 25%;
+}
